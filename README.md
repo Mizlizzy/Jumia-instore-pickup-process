@@ -3,7 +3,7 @@ Jumia-Tech is a large supplier of consumer hardware devices such as laptops, tab
 During the pandemic, as a business analyst at Jumia-Tech, I devised new process steps to improve the online purchases - in-store pickup process and tech support. For online purchases, customers can select in-store pickup at checkout, reducing delivery times and promoting social distancing. 
 
 # Disclaimer: 
-All datasets and reports do not represent any company, institution or country. All info are dummy set to demonstrate my capabilities in 
+All datasets and reports do not represent any company, institution or country. All info are dummy set to demonstrate my capabilities
 
 # Analysis # RACI Metrics
 ![image](https://github.com/Mizlizzy/Jumia-instore-pickup-process/assets/125541494/a6a51077-9339-406d-a8d4-b5ca2fcaa234)
