@@ -14,3 +14,5 @@ All datasets and reports do not represent any company, institution or country. A
 
 ![image](https://github.com/Mizlizzy/Jumia-instore-pickup-process/assets/125541494/a39ea88c-9a95-4af3-900e-ebc362284983)
 
+# Thank you
+
