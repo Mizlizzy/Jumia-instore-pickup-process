@@ -9,5 +9,4 @@ During the pandemic, as a business analyst at Jumia-Tech, I devised new process 
 ![image](https://github.com/Mizlizzy/Jumia-instore-pickup-process/assets/125541494/c5be7f53-baac-4ee5-9a90-94cd85e3b72a)
 
 ![image](https://github.com/Mizlizzy/Jumia-instore-pickup-process/assets/125541494/a39ea88c-9a95-4af3-900e-ebc362284983)
-# Reommendation 
-I recommended the new in store pick up process 
+
