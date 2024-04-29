@@ -5,8 +5,7 @@ During the pandemic, as a business analyst at Jumia-Tech, I devised new process 
 # Disclaimer: 
 All datasets and reports do not represent any company, institution or country. All info are dummy set to demonstrate my capabilities in 
 
-# Analysis #RACI Metrics
-
+# Analysis # RACI Metrics
 ![image](https://github.com/Mizlizzy/Jumia-instore-pickup-process/assets/125541494/a6a51077-9339-406d-a8d4-b5ca2fcaa234)
 # The Process flow chat for the current state of Jumia instore pick up process
 ![image](https://github.com/Mizlizzy/Jumia-instore-pickup-process/assets/125541494/a4c9f67d-7e74-4911-a881-8709be0a04d7)
